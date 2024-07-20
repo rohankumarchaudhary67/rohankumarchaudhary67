@@ -89,9 +89,6 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
   [![Snehasish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohankumarchaudhary67&theme=high-contrast)](https://github.com/rohankumarchaudhary67/github-readme-activity-graph)
 
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohankumarchaudhary67/rohankumarchaudhary67/output/github-contribution-grid-snake-dark.svg" />
-  
   <br/><br/><br/>
 </div>
 
