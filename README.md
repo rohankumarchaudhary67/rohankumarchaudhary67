@@ -88,6 +88,3 @@ Passionate aspiring software engineer with a strong focus on technology and prob
   <br/><br/><br/>
 </div>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rohankumarchaudhary67"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rohankumarchaudhary67" /></a></p><br><br>
