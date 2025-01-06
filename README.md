@@ -4,8 +4,6 @@
 
 <h3 align="center">"Experienced software engineer and project manager with a track record of leading successful tech projects and startups."</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohankumarchaudhary67&label=Profile%20views&color=0e75b6&style=flat" alt="rohankumarchaudhary67" /> </p>
-
 # 💫 ABOUT ME :
 Passionate aspiring software engineer with a strong focus on technology and problem-solving.Dedicated to create innovative solutions and staying updated with industry trends.
 ###
@@ -87,4 +85,3 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
   <br/><br/><br/>
 </div>
-
