@@ -4,11 +4,8 @@
 
 <h3 align="center">"Experienced software engineer and project manager with a track record of leading successful tech projects and startups."</h3>
 
-
-## 💻 TECH STACK :
-
-<h2 align="center">⚒️ Daily Tools ⚒️</h2>
 <br/>
+<h2 align="center">⚒️ Daily Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,notion,github,git,postman,figma,gcp,vercel,netlify,prisma,pycharm" />
     <br>
