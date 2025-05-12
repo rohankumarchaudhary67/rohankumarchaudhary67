@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Kumar+Chaudhary!;" />
 </h1>
 
-<h3 align="center">"Experienced software engineer and project manager with a track record of leading successful tech projects and startups."</h3>
+<h3 align="center">Experienced software engineer and project manager with a track record of leading successful tech projects and startups</h3>
 
 <br/>
 <h2 align="center">⚒️ Daily Tools ⚒️</h2>
